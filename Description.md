@@ -1,0 +1,3 @@
+# Amazon-Prime-Movies-TV-Shows-Analysis
+
+This project analyzes Amazon Prime’s movie and TV show catalog using Power BI. The dataset, sourced from Kaggle, includes details such as title, director, cast, release year, rating, and genre. The dashboard provides insights into content distribution by country, trends over time, genre popularity, and rating distribution. Visualizations include maps, donut charts, and area charts to highlight patterns in Amazon Prime's content strategy. The analysis helps understand how Amazon Prime's library has evolved, with a focus on movies, regional content distribution, and shifts in content strategy over time.
